@@ -1,0 +1,19 @@
+name: /home/daniel/anaconda-workspace/sample-ml-multilevel-regression-analysis/env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - jupyterlab
+  - pandas
+  - matplotlib
+  - plotly
+  - statsmodels
+  - tqdm
+  - scikit-learn
+  - scipy
+  - pip
+  - numpy
+  - seaborn
+  - imageio
+prefix: /home/daniel/anaconda-workspace/sample-ml-multilevel-regression-analysis/env

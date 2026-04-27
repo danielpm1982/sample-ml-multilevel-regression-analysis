@@ -9,7 +9,7 @@ This is a sample Machine Learning project that exemplifies how to proceed Hierar
 [**Content**]<br>
 GitHub jupyter notebook | Colab dynamic code import and run:
 
-**Student's Performance - student (study hours) x school (professor_experience_time) x performance (HLM2 ou GLMM2)**
+**Student's Performance - student (study_hours) x school (professor_experience_hours) x performance (HLM2 or GLMM2)**
 
 GitHub:<br>[https://github.com/danielpm1982/sample-ml-multilevel-regression-analysis/blob/master/regression-analysis-multilevel-hlm2-student-performance.ipynb](https://github.com/danielpm1982/sample-ml-multilevel-regression-analysis/blob/master/regression-analysis-multilevel-hlm2-student-performance.ipynb)<br>
 Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-multilevel-regression-analysis/blob/master/regression-analysis-multilevel-hlm2-student-performance.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-multilevel-regression-analysis/blob/master/regression-analysis-multilevel-hlm2-student-performance.ipynb)<br>
@@ -22,7 +22,7 @@ You can also run this Jupiter Notebook project remotely at [https://colab.resear
 
 [**Support**]<br>
 If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>
-https://github.com/danielpm1982/sample-ml-count-data-regression-analysis/issues
+https://github.com/danielpm1982/sample-ml-multilevel-regression-analysis/issues
 
 [**Copyright© License**]<br>
 © 2026 Daniel Pinheiro Maia All Rights Reserved<br>
