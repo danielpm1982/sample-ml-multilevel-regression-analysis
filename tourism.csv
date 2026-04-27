@@ -1,0 +1,1623 @@
+country_of_origin,goes_travel,age,numb_of_kids
+France,yes,68,2
+France,yes,37,0
+France,yes,45,3
+France,yes,59,2
+France,yes,29,0
+France,yes,32,0
+France,yes,63,2
+France,yes,39,2
+France,yes,43,1
+France,yes,48,2
+France,no,39,0
+France,yes,45,0
+France,yes,39,1
+France,yes,56,2
+France,yes,49,2
+France,no,49,2
+France,yes,38,0
+France,no,43,2
+France,no,42,1
+France,yes,45,3
+France,yes,43,0
+France,yes,33,0
+France,yes,52,2
+France,no,45,3
+France,no,38,1
+France,yes,61,2
+France,no,41,0
+France,no,47,1
+France,no,38,1
+France,no,49,1
+France,yes,44,3
+France,no,48,3
+France,yes,41,3
+France,yes,57,0
+France,yes,51,2
+France,yes,61,2
+France,no,51,2
+France,yes,55,2
+France,yes,42,3
+France,no,41,2
+France,yes,64,2
+France,yes,45,2
+France,yes,35,1
+France,yes,55,2
+France,no,40,1
+France,no,39,3
+France,no,45,2
+France,yes,36,1
+France,no,52,2
+France,no,55,3
+France,yes,33,0
+France,no,43,3
+France,yes,45,0
+France,no,42,0
+France,no,37,3
+France,no,51,1
+France,no,39,3
+France,yes,54,2
+France,yes,41,1
+France,yes,32,0
+France,yes,66,2
+France,yes,45,3
+France,yes,46,3
+France,yes,55,2
+France,yes,38,2
+France,yes,55,2
+France,yes,53,2
+France,yes,41,2
+France,yes,32,0
+France,yes,37,3
+France,yes,33,0
+France,yes,51,2
+France,yes,63,3
+France,yes,41,3
+France,yes,52,3
+France,yes,42,0
+France,yes,39,0
+France,yes,45,2
+France,yes,51,2
+France,yes,51,2
+France,yes,59,2
+France,yes,36,0
+France,no,51,2
+France,yes,55,2
+France,yes,55,2
+France,no,49,2
+France,yes,38,0
+France,yes,44,2
+France,yes,55,2
+France,no,46,2
+France,yes,50,0
+France,yes,48,2
+France,yes,41,3
+France,no,48,2
+France,yes,57,1
+France,no,47,2
+France,no,61,2
+France,no,52,2
+France,yes,39,1
+France,yes,59,3
+France,yes,47,2
+France,yes,40,3
+France,yes,51,2
+France,yes,64,2
+France,yes,50,1
+France,yes,55,2
+France,yes,51,2
+France,yes,61,2
+France,yes,37,0
+France,yes,37,1
+France,yes,47,0
+France,yes,42,0
+France,yes,52,3
+France,yes,41,0
+France,yes,51,2
+France,yes,41,2
+France,yes,54,3
+Portugal,yes,41,2
+Portugal,yes,45,3
+Portugal,yes,33,0
+Portugal,no,41,3
+Portugal,yes,69,2
+Portugal,no,51,2
+Portugal,no,47,1
+Portugal,no,55,3
+Portugal,yes,39,3
+Portugal,no,52,2
+Portugal,yes,45,2
+Portugal,yes,45,3
+Portugal,yes,37,0
+Portugal,yes,56,2
+Portugal,yes,35,0
+Portugal,no,43,3
+Portugal,yes,29,0
+Portugal,no,46,3
+Portugal,yes,47,3
+Portugal,yes,39,1
+Hungary,no,42,2
+Hungary,no,37,0
+Bulgaria,no,43,1
+Bulgaria,no,47,2
+Bulgaria,no,42,3
+Bulgaria,yes,41,0
+Bulgaria,no,51,2
+Bulgaria,no,52,3
+Bulgaria,no,56,2
+Bulgaria,no,45,2
+Bulgaria,no,34,1
+Bulgaria,no,40,1
+Bulgaria,no,45,2
+Bulgaria,yes,45,3
+Bulgaria,no,42,1
+Bulgaria,yes,40,0
+Bulgaria,yes,65,2
+Bulgaria,yes,62,2
+Bulgaria,yes,56,2
+Bulgaria,yes,45,2
+Bulgaria,no,50,1
+Bulgaria,yes,49,2
+Bulgaria,yes,61,2
+Bulgaria,yes,67,2
+Bulgaria,no,47,2
+Bulgaria,no,54,2
+Bulgaria,no,47,2
+Bulgaria,yes,36,0
+Bulgaria,yes,47,3
+Bulgaria,yes,33,1
+Bulgaria,yes,37,3
+Bulgaria,yes,37,0
+Spain,yes,31,0
+Spain,no,46,2
+Spain,yes,43,1
+Spain,yes,47,2
+Spain,yes,31,0
+Spain,no,45,3
+Spain,yes,39,0
+Spain,no,33,0
+Spain,no,38,1
+Spain,yes,64,2
+Spain,no,34,0
+Spain,yes,38,0
+Spain,yes,40,0
+Spain,yes,59,2
+Spain,yes,44,0
+Spain,yes,47,2
+Spain,yes,63,2
+Spain,no,57,2
+Spain,yes,34,0
+Spain,yes,45,2
+Spain,no,56,2
+Spain,yes,46,2
+Spain,yes,35,0
+Spain,no,42,3
+Spain,no,63,2
+Spain,no,50,2
+Spain,no,41,3
+Spain,yes,39,2
+Spain,yes,35,3
+Spain,no,39,3
+Spain,no,40,0
+Spain,yes,30,0
+Spain,yes,46,2
+Spain,yes,41,2
+Spain,yes,69,2
+Spain,yes,65,3
+Spain,no,43,2
+Spain,yes,56,2
+Spain,yes,62,2
+Italy,no,47,0
+Italy,no,44,1
+Italy,no,48,2
+Italy,yes,56,3
+Italy,no,42,0
+Italy,yes,52,2
+Italy,no,52,2
+Italy,yes,39,3
+Italy,yes,62,2
+Italy,no,30,0
+Italy,yes,58,2
+Italy,yes,45,2
+Italy,yes,51,2
+Italy,yes,39,0
+Italy,no,42,1
+Italy,yes,38,1
+Italy,yes,53,1
+Italy,no,50,2
+Italy,no,37,3
+Italy,no,45,3
+Italy,yes,39,0
+Italy,yes,44,3
+Italy,yes,58,2
+Italy,yes,54,2
+Italy,yes,50,0
+Italy,no,37,1
+Italy,yes,44,0
+Italy,no,43,3
+Italy,yes,46,3
+Italy,no,58,2
+Italy,yes,41,0
+Italy,yes,39,0
+Italy,yes,39,0
+Italy,yes,34,0
+Italy,yes,40,2
+Italy,yes,37,0
+Italy,yes,67,2
+Italy,no,40,1
+Italy,yes,43,1
+Italy,yes,37,1
+Italy,no,49,2
+Italy,yes,35,0
+Italy,yes,51,1
+Italy,yes,45,1
+Italy,yes,54,3
+Italy,yes,37,0
+Italy,yes,66,2
+Italy,yes,54,2
+Italy,yes,52,2
+Italy,yes,46,1
+Italy,yes,36,0
+Italy,yes,41,3
+Italy,yes,62,2
+Italy,yes,68,3
+Italy,yes,48,2
+Italy,yes,59,2
+Italy,yes,42,2
+Italy,yes,38,2
+Italy,no,46,3
+Italy,no,50,2
+Italy,yes,39,1
+Italy,no,43,2
+Italy,yes,61,2
+Italy,no,55,2
+Italy,yes,37,0
+Netherlands,yes,44,2
+Netherlands,yes,39,1
+Netherlands,yes,40,1
+Netherlands,yes,30,0
+Netherlands,yes,42,2
+Netherlands,yes,34,0
+Netherlands,no,53,2
+Netherlands,yes,61,2
+Netherlands,no,42,0
+Netherlands,yes,36,1
+Netherlands,yes,43,2
+Netherlands,yes,48,1
+Netherlands,no,49,2
+Netherlands,yes,49,2
+Netherlands,no,40,1
+Netherlands,yes,49,3
+Netherlands,yes,39,0
+Netherlands,no,35,0
+Belgium,no,32,0
+Belgium,no,43,3
+Belgium,yes,67,0
+Belgium,yes,53,2
+Belgium,no,43,3
+Belgium,yes,36,0
+Belgium,yes,38,1
+Belgium,yes,61,2
+Belgium,no,36,1
+Belgium,yes,32,0
+Belgium,no,58,2
+Belgium,yes,51,1
+Belgium,no,47,2
+Belgium,no,39,1
+Belgium,no,56,2
+Belgium,yes,49,3
+Belgium,no,41,1
+Belgium,yes,46,2
+Belgium,yes,40,0
+Belgium,no,37,1
+Belgium,yes,37,0
+Belgium,no,70,2
+Belgium,yes,37,3
+Belgium,yes,37,3
+Belgium,no,70,2
+Belgium,no,57,2
+Belgium,yes,33,1
+Belgium,yes,44,0
+Belgium,yes,62,2
+Belgium,no,45,3
+Belgium,yes,64,2
+Belgium,yes,55,1
+Belgium,yes,31,0
+Belgium,yes,42,1
+Belgium,yes,37,0
+Belgium,yes,36,0
+Belgium,yes,44,2
+Austria,no,57,2
+Austria,no,45,3
+Austria,yes,61,2
+Austria,yes,47,3
+Austria,no,44,2
+Austria,yes,39,2
+Austria,no,37,1
+Austria,yes,48,2
+Austria,no,48,3
+Austria,yes,32,0
+Austria,yes,54,2
+Austria,yes,43,3
+Austria,yes,43,1
+Austria,no,56,2
+Austria,yes,37,3
+Austria,yes,58,2
+Austria,yes,40,2
+Austria,yes,37,0
+Austria,yes,30,0
+Austria,yes,34,1
+Austria,no,40,3
+Austria,yes,54,2
+Austria,yes,58,2
+Denmark,yes,64,3
+Denmark,yes,39,0
+Denmark,yes,40,1
+Denmark,yes,54,2
+Denmark,yes,52,2
+Denmark,yes,59,0
+Denmark,yes,61,2
+Denmark,no,48,1
+Denmark,yes,61,2
+Denmark,yes,65,3
+Denmark,yes,56,0
+Denmark,yes,35,0
+Denmark,yes,34,0
+Sweden,yes,40,0
+Sweden,yes,42,0
+Sweden,yes,42,1
+Sweden,yes,69,1
+Sweden,yes,36,0
+Sweden,yes,33,0
+Sweden,yes,30,0
+Sweden,yes,52,0
+Sweden,yes,34,0
+Sweden,yes,67,2
+Sweden,yes,46,0
+Sweden,yes,45,1
+Sweden,yes,47,1
+Sweden,yes,49,1
+Sweden,yes,37,0
+Sweden,yes,40,3
+Sweden,yes,48,2
+Sweden,yes,42,1
+Sweden,yes,42,0
+Sweden,yes,43,0
+Sweden,yes,68,2
+Croatia,no,59,2
+Croatia,yes,62,2
+Croatia,yes,43,3
+Croatia,no,55,0
+Croatia,yes,45,2
+Croatia,yes,68,2
+Croatia,no,57,2
+Croatia,yes,43,1
+Croatia,yes,70,2
+Croatia,yes,50,2
+Croatia,yes,49,0
+Croatia,yes,52,2
+Croatia,no,39,0
+Croatia,yes,55,2
+Croatia,no,35,0
+Croatia,yes,43,2
+Croatia,yes,52,2
+Croatia,yes,42,3
+Croatia,no,43,1
+Croatia,yes,49,2
+Croatia,no,61,2
+Croatia,yes,53,2
+Croatia,no,55,2
+Croatia,yes,54,2
+Croatia,no,60,2
+Croatia,yes,40,3
+Croatia,yes,41,3
+Croatia,no,54,2
+Croatia,yes,39,0
+Poland,yes,57,2
+Poland,yes,31,0
+Poland,no,51,2
+Poland,no,43,0
+Poland,yes,36,1
+Poland,no,46,1
+Poland,yes,39,0
+Poland,yes,41,0
+Poland,yes,48,2
+Poland,yes,65,2
+Poland,no,49,2
+Poland,no,44,2
+Poland,yes,44,0
+Poland,yes,63,2
+Poland,yes,47,1
+Poland,no,42,3
+Poland,yes,54,0
+Poland,yes,39,0
+Poland,yes,50,2
+Poland,no,46,2
+Poland,yes,60,0
+Poland,no,47,2
+Poland,no,60,2
+Poland,no,43,1
+Greece,yes,34,0
+Greece,no,38,0
+Greece,yes,40,1
+Greece,yes,38,1
+Greece,no,38,0
+Greece,yes,48,1
+Greece,yes,50,0
+Greece,yes,46,0
+Greece,yes,44,1
+Greece,no,38,0
+Greece,no,41,3
+Greece,yes,48,2
+Greece,no,49,1
+Greece,no,35,0
+Greece,no,41,1
+Greece,yes,40,0
+Greece,no,61,2
+Greece,yes,42,1
+Greece,no,47,2
+Greece,yes,37,0
+Greece,yes,37,0
+Greece,no,34,0
+Greece,yes,58,2
+Greece,yes,35,0
+Greece,yes,39,3
+Greece,no,39,0
+Greece,no,65,2
+Greece,no,67,2
+Greece,no,56,2
+Greece,no,64,2
+Greece,no,31,0
+Greece,no,48,2
+Greece,no,45,1
+Greece,no,36,0
+Greece,no,48,3
+Greece,no,39,3
+Greece,no,41,2
+Greece,no,48,3
+Greece,no,52,2
+Greece,yes,48,2
+Greece,no,54,2
+Greece,no,51,2
+Greece,no,29,0
+Greece,no,30,0
+Greece,no,56,2
+Greece,yes,46,0
+Greece,yes,42,0
+Greece,yes,60,2
+Greece,no,33,0
+Greece,no,59,2
+Greece,no,31,0
+Greece,yes,45,2
+Greece,yes,38,0
+Greece,no,37,0
+Greece,no,51,2
+Greece,no,49,2
+Greece,no,52,2
+Greece,yes,40,1
+Greece,yes,42,0
+Greece,no,50,3
+Greece,no,39,0
+Greece,yes,54,1
+Greece,no,41,3
+Greece,no,44,1
+Greece,yes,36,1
+Greece,no,44,3
+Greece,no,62,2
+Greece,no,42,3
+Greece,yes,60,2
+Greece,yes,40,1
+Greece,no,47,3
+Greece,no,45,1
+Greece,no,42,1
+Greece,no,45,2
+Greece,no,41,1
+Greece,no,61,2
+Greece,no,47,0
+Greece,no,52,2
+Greece,no,49,3
+Greece,yes,49,0
+Greece,no,38,0
+Greece,yes,66,3
+Greece,no,58,2
+Greece,no,35,0
+Greece,no,59,2
+Greece,no,63,2
+Greece,no,40,1
+Greece,yes,37,0
+Greece,no,46,1
+Greece,no,40,1
+Greece,no,45,3
+Greece,no,35,0
+Greece,yes,45,3
+Greece,no,35,0
+Greece,no,44,0
+Greece,yes,40,0
+Greece,no,41,0
+Greece,no,34,1
+Greece,yes,47,3
+Greece,no,53,2
+Greece,no,48,3
+Greece,no,47,1
+Greece,no,38,1
+Greece,yes,37,3
+Greece,yes,54,3
+Greece,yes,38,1
+Greece,yes,44,1
+Greece,yes,42,2
+Greece,no,61,2
+Greece,yes,67,2
+Greece,no,30,0
+Greece,yes,63,2
+Greece,no,44,2
+Greece,yes,30,0
+Greece,yes,33,0
+Greece,yes,44,2
+Greece,yes,41,1
+Greece,no,64,2
+Russia,no,60,2
+Russia,yes,34,0
+Russia,yes,51,2
+Russia,yes,47,2
+Russia,no,43,2
+Russia,yes,65,2
+Russia,yes,47,1
+Russia,no,44,0
+Russia,no,45,3
+Russia,yes,35,0
+Russia,yes,53,3
+Russia,yes,51,1
+Russia,no,54,2
+Russia,yes,40,1
+Russia,yes,46,0
+Russia,yes,42,0
+Russia,yes,34,0
+Russia,no,42,1
+Russia,yes,42,1
+Russia,yes,35,0
+Russia,no,44,3
+Russia,no,41,1
+Lithuania,no,49,3
+Lithuania,no,36,0
+Lithuania,yes,34,0
+Lithuania,yes,33,0
+Lithuania,no,35,0
+Lithuania,yes,36,0
+Lithuania,no,38,0
+Lithuania,no,54,3
+Lithuania,no,62,3
+Lithuania,no,53,3
+Lithuania,yes,55,2
+Lithuania,no,32,1
+Lithuania,yes,37,0
+Lithuania,yes,32,0
+Lithuania,yes,44,1
+Lithuania,no,56,2
+Lithuania,yes,35,0
+Lithuania,yes,62,3
+Lithuania,no,40,0
+Lithuania,no,36,1
+Switzerland,yes,37,0
+Switzerland,yes,37,0
+Switzerland,no,42,2
+Switzerland,no,55,2
+Switzerland,no,55,2
+Switzerland,yes,42,1
+Switzerland,yes,39,1
+Switzerland,yes,64,2
+Switzerland,yes,45,0
+Switzerland,yes,36,0
+Switzerland,yes,41,2
+Switzerland,yes,46,3
+Switzerland,yes,36,0
+Switzerland,yes,50,0
+Switzerland,no,52,2
+Switzerland,yes,52,2
+Switzerland,no,40,2
+Switzerland,yes,47,2
+Switzerland,yes,50,2
+Switzerland,no,47,3
+Switzerland,yes,45,2
+Switzerland,no,48,2
+Switzerland,yes,57,2
+Switzerland,yes,53,2
+Scotland,yes,45,0
+Scotland,no,41,1
+Scotland,yes,44,3
+Scotland,yes,42,3
+Scotland,yes,34,0
+Scotland,no,50,2
+Scotland,yes,39,0
+Scotland,yes,33,0
+Scotland,no,46,3
+Scotland,no,66,2
+Scotland,yes,40,0
+Scotland,no,35,0
+Scotland,no,41,0
+Scotland,no,57,2
+Scotland,yes,31,0
+Scotland,no,38,1
+Scotland,yes,34,0
+Scotland,yes,41,1
+Scotland,yes,35,0
+Scotland,no,31,0
+Scotland,no,47,2
+Scotland,yes,47,3
+Scotland,yes,33,0
+Scotland,yes,39,0
+Scotland,yes,60,2
+Scotland,no,39,2
+Scotland,yes,57,2
+Scotland,yes,64,2
+Scotland,no,44,3
+Scotland,no,52,2
+Scotland,yes,58,2
+Scotland,yes,67,3
+Scotland,yes,46,3
+Scotland,yes,52,2
+Scotland,yes,50,0
+Scotland,no,31,1
+Scotland,yes,48,2
+Scotland,yes,49,2
+Scotland,yes,64,0
+Scotland,yes,42,3
+Scotland,yes,39,3
+Scotland,yes,50,2
+Scotland,no,43,1
+Scotland,yes,41,0
+Scotland,yes,52,2
+Scotland,yes,63,2
+Scotland,no,35,0
+Ireland,yes,45,0
+Ireland,no,39,1
+Ireland,no,45,2
+Ireland,no,36,0
+Ireland,yes,67,3
+Ireland,no,45,2
+Ireland,no,48,2
+Ireland,yes,42,0
+Ireland,yes,54,2
+Ireland,yes,56,2
+Ireland,yes,62,1
+Ireland,yes,55,1
+Ireland,yes,34,0
+Ireland,yes,47,0
+Ireland,yes,43,1
+Ireland,no,50,0
+Ireland,yes,47,0
+Ireland,yes,38,0
+Ireland,no,50,2
+Ireland,no,53,1
+Ireland,no,50,2
+Ireland,yes,41,1
+Ireland,yes,38,2
+Ireland,yes,50,2
+Ireland,no,60,2
+Ireland,yes,54,2
+Serbia,yes,44,3
+Serbia,yes,47,3
+Serbia,no,32,0
+Serbia,no,46,3
+Serbia,yes,64,2
+Serbia,no,33,0
+Serbia,no,37,0
+Serbia,yes,43,3
+Serbia,yes,54,2
+Serbia,yes,38,0
+Serbia,yes,35,0
+Serbia,yes,57,0
+Serbia,yes,33,0
+Serbia,no,57,2
+Serbia,no,44,2
+Montenegro,yes,67,2
+Montenegro,yes,62,2
+Montenegro,no,31,0
+Montenegro,yes,33,0
+Montenegro,yes,41,2
+Montenegro,yes,64,2
+Montenegro,yes,60,2
+Montenegro,yes,38,1
+Montenegro,yes,53,3
+Montenegro,no,50,0
+Montenegro,yes,39,1
+Montenegro,no,41,3
+Montenegro,yes,45,3
+Montenegro,no,39,1
+Montenegro,no,48,0
+Montenegro,no,44,1
+Montenegro,no,40,0
+Montenegro,yes,37,0
+Finland,yes,55,1
+Finland,no,45,3
+Finland,yes,67,0
+Finland,yes,43,2
+Finland,yes,39,0
+Finland,yes,40,2
+Finland,yes,61,2
+Finland,no,44,1
+Finland,yes,41,3
+Finland,yes,51,3
+Finland,yes,39,1
+Finland,yes,47,3
+Finland,yes,51,2
+Finland,yes,34,0
+Finland,yes,60,2
+Finland,yes,50,2
+Finland,yes,46,2
+Finland,yes,46,2
+Finland,no,45,3
+Finland,no,44,1
+Germany,yes,41,3
+Germany,yes,42,0
+Germany,no,49,3
+Germany,yes,43,3
+Germany,yes,64,2
+Germany,yes,45,2
+Germany,yes,41,3
+Germany,yes,55,1
+Germany,no,59,2
+Germany,yes,38,0
+Germany,yes,54,2
+Germany,no,53,2
+Germany,yes,35,0
+Germany,no,56,3
+Germany,yes,59,2
+Norway,yes,37,0
+Norway,yes,47,2
+Norway,yes,38,1
+Norway,yes,60,2
+Norway,yes,37,0
+Norway,yes,34,0
+Norway,yes,56,2
+Norway,yes,56,2
+Norway,yes,55,2
+Norway,yes,56,0
+Norway,no,52,2
+Norway,yes,34,0
+Norway,yes,43,1
+Norway,yes,64,2
+Romania,yes,35,0
+Romania,no,42,3
+Romania,yes,44,0
+Romania,no,50,2
+Romania,yes,49,0
+Romania,no,57,1
+Romania,no,57,2
+Romania,no,42,1
+Romania,yes,45,2
+Romania,yes,48,0
+Romania,no,49,2
+Romania,yes,34,0
+Romania,yes,36,0
+Romania,no,54,2
+Romania,yes,34,0
+Romania,yes,33,0
+Romania,yes,51,1
+Romania,no,40,1
+Romania,no,64,2
+Romania,yes,36,1
+Romania,yes,44,2
+Romania,no,43,1
+Romania,no,34,1
+Romania,no,53,3
+Romania,yes,31,0
+Romania,yes,51,2
+Romania,yes,50,2
+Romania,yes,45,2
+Romania,yes,38,0
+Romania,no,50,2
+Romania,no,49,2
+Romania,yes,45,3
+Romania,no,50,2
+Romania,no,32,1
+Romania,no,41,2
+Romania,yes,47,2
+Romania,no,48,3
+Romania,yes,31,0
+Romania,yes,40,3
+Romania,yes,38,1
+Romania,yes,41,0
+Romania,no,49,3
+Romania,no,56,2
+Romania,yes,52,3
+Romania,no,56,2
+Romania,yes,31,0
+Romania,no,52,2
+Romania,yes,55,2
+Romania,no,42,1
+Romania,no,43,2
+Romania,no,44,2
+Romania,yes,37,1
+Romania,yes,45,1
+Romania,no,64,2
+Romania,yes,45,0
+Romania,no,37,1
+Romania,no,45,2
+Romania,yes,46,3
+Romania,yes,61,2
+Romania,yes,48,1
+Romania,yes,31,0
+Romania,yes,38,1
+Romania,yes,47,3
+Romania,no,48,2
+Romania,no,51,2
+Romania,yes,30,0
+Romania,yes,49,2
+Mexico,no,52,2
+Mexico,yes,54,2
+Mexico,yes,47,2
+Mexico,yes,52,2
+Mexico,yes,37,1
+Mexico,yes,41,1
+Mexico,yes,41,0
+Mexico,no,56,3
+Mexico,yes,39,1
+Mexico,no,44,1
+Mexico,yes,66,3
+Mexico,no,52,3
+Mexico,no,45,3
+Australia,yes,49,2
+Australia,yes,40,0
+Australia,yes,50,2
+Australia,no,39,0
+Australia,no,57,2
+Australia,yes,40,1
+Australia,yes,35,0
+Australia,yes,61,2
+Australia,yes,60,2
+Australia,yes,50,1
+Australia,yes,65,2
+Australia,yes,69,2
+Australia,yes,49,3
+Australia,yes,61,2
+Australia,no,38,0
+Australia,yes,64,2
+Australia,yes,45,0
+Australia,yes,32,0
+Australia,yes,33,0
+Australia,yes,35,0
+Australia,yes,42,0
+Australia,no,56,3
+Australia,no,59,2
+Australia,yes,40,1
+Australia,yes,38,0
+Australia,yes,45,3
+Australia,yes,68,2
+Australia,no,41,0
+Australia,no,45,2
+Australia,yes,34,0
+Australia,yes,34,0
+Australia,no,44,3
+Australia,yes,53,2
+Australia,yes,41,1
+Australia,yes,35,0
+Australia,yes,38,1
+Australia,yes,55,1
+Australia,yes,39,0
+Australia,yes,58,2
+Australia,yes,59,2
+Australia,yes,56,2
+Australia,yes,64,2
+Australia,yes,62,2
+Australia,yes,50,2
+Canada,yes,57,2
+Canada,yes,42,2
+Canada,yes,58,2
+Canada,no,50,2
+Canada,no,34,1
+Canada,no,44,3
+Canada,yes,42,1
+Canada,yes,61,2
+Canada,no,59,2
+Canada,yes,66,2
+Canada,no,53,2
+Canada,no,41,2
+Canada,yes,58,2
+Canada,no,52,2
+Canada,yes,66,2
+Canada,yes,35,0
+Canada,no,31,0
+Canada,yes,68,2
+Canada,yes,38,0
+Canada,yes,50,3
+Canada,no,55,2
+Canada,yes,38,0
+Canada,yes,30,0
+Canada,yes,40,0
+Canada,yes,35,0
+Canada,no,51,2
+Canada,yes,36,1
+Canada,yes,42,0
+Canada,yes,63,2
+Canada,no,48,2
+Canada,no,43,3
+Canada,yes,49,2
+Canada,yes,67,2
+Canada,yes,47,1
+Canada,yes,52,2
+Canada,yes,70,2
+Canada,yes,37,1
+Canada,yes,37,1
+Canada,yes,41,3
+Canada,yes,37,0
+Canada,yes,32,0
+Canada,yes,54,3
+Canada,yes,50,2
+Canada,yes,56,2
+Canada,yes,39,3
+Canada,yes,30,0
+Canada,yes,55,2
+Canada,yes,49,1
+Canada,yes,46,1
+New Zealand,yes,57,2
+New Zealand,yes,39,0
+New Zealand,no,59,2
+New Zealand,no,55,2
+New Zealand,yes,48,0
+New Zealand,no,51,3
+New Zealand,no,56,0
+New Zealand,yes,37,0
+New Zealand,yes,33,0
+New Zealand,yes,37,0
+New Zealand,yes,40,0
+New Zealand,yes,41,2
+New Zealand,yes,43,3
+New Zealand,yes,61,2
+New Zealand,yes,52,0
+New Zealand,yes,61,2
+New Zealand,yes,43,0
+New Zealand,yes,39,0
+New Zealand,no,31,0
+New Zealand,yes,35,0
+New Zealand,no,51,2
+New Zealand,yes,62,2
+New Zealand,yes,65,3
+New Zealand,yes,40,0
+New Zealand,yes,37,0
+New Zealand,no,46,2
+New Zealand,yes,32,0
+New Zealand,no,42,1
+New Zealand,yes,40,1
+New Zealand,yes,35,1
+New Zealand,yes,39,3
+New Zealand,no,48,2
+Peru,no,47,1
+Peru,no,50,3
+Peru,no,46,1
+Peru,no,54,2
+Peru,no,54,2
+Peru,yes,41,1
+Peru,yes,44,3
+Peru,no,70,2
+Peru,no,43,3
+Peru,no,66,2
+Peru,yes,39,0
+Peru,no,46,1
+Peru,no,40,1
+Peru,no,48,1
+Peru,yes,33,0
+Peru,no,48,1
+Peru,no,55,2
+Peru,yes,49,0
+Peru,no,40,1
+Peru,yes,53,0
+Peru,yes,40,0
+Peru,no,52,2
+Peru,yes,38,0
+Peru,no,51,2
+Peru,no,40,2
+Peru,no,52,2
+Peru,yes,37,0
+Peru,no,35,0
+Peru,yes,38,1
+Peru,yes,55,2
+Peru,no,49,1
+Peru,yes,65,2
+Peru,yes,38,0
+Peru,no,38,1
+Peru,yes,32,0
+Peru,no,45,1
+Peru,no,52,2
+Peru,yes,38,0
+Peru,yes,35,1
+Peru,no,65,2
+Peru,yes,44,1
+Peru,yes,42,1
+Peru,no,56,2
+Peru,no,51,2
+Peru,no,51,2
+Peru,no,57,1
+Peru,yes,39,0
+Peru,yes,58,2
+Peru,yes,34,0
+Peru,yes,59,0
+Peru,yes,50,3
+Peru,yes,32,0
+Peru,no,53,1
+Peru,yes,39,0
+Peru,yes,51,3
+Peru,yes,38,0
+Peru,yes,32,0
+Peru,yes,53,2
+Peru,yes,60,2
+Peru,no,49,3
+Peru,yes,42,1
+Paraguay,yes,59,2
+Paraguay,no,37,0
+Paraguay,no,45,2
+Paraguay,no,45,2
+Paraguay,yes,59,2
+Paraguay,yes,34,0
+Paraguay,yes,62,2
+Paraguay,no,62,2
+Paraguay,no,63,2
+Paraguay,no,35,3
+Paraguay,yes,68,1
+Paraguay,no,47,1
+Paraguay,yes,40,0
+Paraguay,yes,33,0
+Paraguay,no,52,2
+Paraguay,yes,44,1
+Paraguay,no,50,2
+Paraguay,yes,46,2
+Paraguay,yes,31,0
+Paraguay,yes,36,0
+Paraguay,yes,58,2
+Paraguay,yes,60,2
+Paraguay,no,45,3
+Paraguay,yes,55,2
+Paraguay,yes,40,0
+Paraguay,no,41,1
+Paraguay,no,51,2
+Paraguay,no,50,1
+Paraguay,yes,61,2
+Paraguay,no,36,0
+Paraguay,no,41,1
+Paraguay,yes,50,2
+Paraguay,yes,31,0
+Japan,no,57,2
+Japan,yes,48,0
+Japan,yes,45,2
+Japan,yes,47,3
+Japan,yes,47,3
+Japan,yes,56,2
+Japan,no,46,2
+Japan,yes,62,2
+Japan,yes,51,2
+Japan,yes,39,0
+Japan,no,40,2
+Japan,yes,52,2
+Japan,no,44,2
+Japan,yes,54,2
+Japan,no,32,0
+Japan,yes,39,1
+Japan,yes,45,2
+Japan,yes,33,0
+Japan,yes,49,3
+Japan,yes,47,2
+Japan,yes,49,2
+Japan,yes,49,2
+Japan,yes,33,1
+Japan,yes,50,2
+Colombia,yes,55,3
+Colombia,no,44,2
+Colombia,no,47,2
+Colombia,no,46,1
+Colombia,yes,38,1
+Colombia,no,48,2
+Colombia,no,52,2
+Colombia,yes,33,1
+Colombia,no,49,2
+Colombia,yes,65,3
+Colombia,yes,46,3
+Colombia,yes,41,1
+Colombia,yes,65,2
+Colombia,yes,52,3
+Venezuela,no,56,3
+Venezuela,yes,59,2
+Venezuela,no,40,0
+Venezuela,yes,52,0
+Venezuela,yes,57,2
+Venezuela,no,47,0
+Venezuela,yes,57,3
+Venezuela,yes,55,2
+Venezuela,yes,42,2
+Venezuela,no,37,0
+Venezuela,no,52,1
+Venezuela,no,54,3
+Venezuela,no,46,2
+Venezuela,no,42,0
+Venezuela,yes,55,3
+Venezuela,no,56,2
+Venezuela,no,48,2
+Venezuela,no,44,3
+Venezuela,no,51,2
+Venezuela,yes,43,3
+Venezuela,yes,41,1
+Venezuela,no,40,2
+Venezuela,no,52,2
+Venezuela,no,43,3
+Venezuela,yes,52,1
+Venezuela,no,37,3
+Venezuela,no,54,2
+Venezuela,yes,38,0
+Venezuela,yes,59,2
+Venezuela,no,48,1
+Venezuela,no,41,2
+Venezuela,no,59,3
+Venezuela,no,55,2
+Venezuela,no,48,3
+Venezuela,no,62,2
+Costa Rica,no,49,0
+Costa Rica,yes,37,1
+Costa Rica,yes,42,0
+Costa Rica,no,33,1
+Costa Rica,yes,37,0
+Costa Rica,yes,33,1
+Costa Rica,yes,35,3
+Costa Rica,yes,49,3
+Costa Rica,no,39,0
+Costa Rica,no,38,2
+Costa Rica,no,49,2
+Costa Rica,yes,62,2
+Costa Rica,no,46,1
+Costa Rica,no,48,1
+Costa Rica,no,47,0
+Costa Rica,yes,54,1
+Costa Rica,no,44,3
+Costa Rica,no,54,3
+Costa Rica,no,48,2
+Costa Rica,yes,30,0
+Costa Rica,yes,48,2
+Costa Rica,yes,42,3
+Costa Rica,yes,52,2
+Costa Rica,yes,44,3
+Costa Rica,yes,29,1
+Costa Rica,yes,43,2
+Costa Rica,yes,54,2
+Costa Rica,no,67,2
+Costa Rica,no,48,2
+Costa Rica,no,43,0
+Costa Rica,no,46,2
+Costa Rica,no,47,1
+Costa Rica,no,38,2
+Costa Rica,no,48,3
+Costa Rica,yes,51,3
+Costa Rica,no,50,2
+Costa Rica,no,57,3
+Costa Rica,yes,40,1
+Costa Rica,no,54,3
+Costa Rica,yes,34,0
+Costa Rica,no,42,3
+Costa Rica,yes,56,2
+Costa Rica,no,61,2
+Costa Rica,yes,50,2
+Costa Rica,no,60,2
+Costa Rica,yes,40,1
+Costa Rica,yes,65,2
+Costa Rica,yes,63,0
+Brazil,yes,56,2
+Brazil,no,46,3
+Brazil,yes,38,0
+Brazil,yes,36,0
+Brazil,yes,47,3
+Brazil,no,46,3
+Brazil,no,45,3
+Brazil,yes,54,1
+Brazil,yes,66,2
+Brazil,yes,49,2
+Brazil,no,49,2
+Brazil,yes,48,2
+Brazil,yes,52,2
+Brazil,yes,33,1
+Brazil,yes,40,1
+Brazil,no,55,1
+Brazil,no,44,1
+Bolivia,no,51,1
+Bolivia,yes,48,2
+Bolivia,no,42,3
+Bolivia,no,69,2
+Bolivia,no,42,3
+Bolivia,no,45,3
+Bolivia,no,35,0
+Bolivia,no,55,2
+Bolivia,yes,39,1
+Bolivia,yes,29,0
+Bolivia,yes,50,2
+Bolivia,yes,59,2
+Bolivia,yes,57,2
+Argentina,no,59,2
+Argentina,yes,66,2
+Argentina,no,44,2
+Argentina,no,58,2
+Argentina,no,59,2
+Argentina,yes,39,0
+Argentina,yes,65,1
+Argentina,yes,68,2
+Argentina,yes,48,2
+Argentina,yes,35,0
+Argentina,yes,63,2
+Argentina,yes,63,2
+Argentina,yes,59,2
+Argentina,yes,39,0
+Panama,yes,50,2
+Panama,no,39,1
+Panama,yes,57,2
+Panama,yes,65,2
+Panama,no,46,0
+Panama,no,33,0
+Panama,no,42,3
+Panama,no,37,0
+Panama,no,43,1
+Panama,no,49,3
+Panama,yes,39,0
+Panama,no,61,2
+Panama,yes,49,2
+Panama,yes,45,0
+Panama,yes,32,0
+Panama,no,32,0
+Panama,yes,56,2
+Panama,yes,59,2
+Panama,no,55,3
+Panama,yes,29,0
+Panama,yes,39,2
+Panama,no,36,2
+Panama,yes,38,0
+Panama,yes,62,2
+Panama,no,47,0
+Panama,no,51,2
+Uruguay,yes,52,3
+Uruguay,yes,45,2
+Uruguay,yes,51,2
+Uruguay,yes,31,0
+Uruguay,no,40,0
+Uruguay,no,45,0
+Uruguay,yes,38,0
+Uruguay,no,58,2
+Uruguay,yes,38,0
+Uruguay,no,47,2
+Uruguay,no,45,1
+Uruguay,yes,40,0
+Uruguay,no,48,0
+Uruguay,no,56,3
+Uruguay,no,51,2
+Uruguay,yes,57,2
+Uruguay,yes,56,2
+Uruguay,no,40,0
+Uruguay,no,54,2
+Uruguay,yes,50,0
+Uruguay,no,43,1
+Uruguay,no,60,0
+Uruguay,yes,42,1
+Uruguay,yes,47,0
+Uruguay,yes,36,0
+Uruguay,no,42,3
+Uruguay,yes,56,1
+Uruguay,yes,59,2
+Uruguay,no,43,1
+Uruguay,yes,52,2
+Uruguay,no,51,2
+Uruguay,no,47,2
+Uruguay,yes,70,2
+Uruguay,no,43,2
+Uruguay,yes,38,0
+Uruguay,yes,60,2
+Uruguay,yes,59,2
+Uruguay,no,62,2
+Uruguay,no,36,0
+Uruguay,yes,39,2
+Uruguay,yes,57,2
+Ecuador,yes,49,2
+Ecuador,yes,53,2
+Ecuador,yes,50,0
+Ecuador,yes,49,1
+Ecuador,no,63,2
+Ecuador,no,55,2
+Ecuador,no,40,3
+Ecuador,no,42,0
+Ecuador,no,47,2
+Ecuador,yes,45,2
+Ecuador,yes,45,2
+Ecuador,no,50,2
+Ecuador,yes,60,2
+Ecuador,yes,39,3
+Ecuador,no,45,1
+Ecuador,yes,54,1
+Ecuador,no,40,3
+Ecuador,no,47,0
+Ecuador,yes,36,0
+Ecuador,no,48,3
+Ecuador,yes,45,1
+Ecuador,yes,48,3
+Ecuador,no,51,1
+Ecuador,yes,43,1
+Ecuador,no,58,2
+Ecuador,no,34,1
+Honduras,yes,36,1
+Honduras,no,47,1
+Honduras,yes,32,0
+Honduras,yes,46,1
+Honduras,yes,42,1
+Honduras,yes,34,0
+Honduras,no,55,3
+Honduras,no,60,2
+Honduras,no,51,1
+Honduras,no,60,2
+Honduras,no,46,1
+Morocco,yes,48,0
+Morocco,no,42,0
+Morocco,no,48,1
+Morocco,yes,47,3
+Morocco,yes,48,2
+Morocco,no,48,3
+Morocco,yes,56,0
+Morocco,no,52,3
+Morocco,no,48,3
+Morocco,yes,48,1
+Morocco,no,32,0
+Morocco,yes,68,2
+Morocco,no,53,1
+Morocco,yes,35,3
+Morocco,no,46,1
+Morocco,no,61,2
+Morocco,no,37,0
+Morocco,no,45,1
+Morocco,no,43,1
+Morocco,yes,47,0
+Morocco,yes,35,0
+Morocco,no,44,1
+Morocco,yes,44,3
+Morocco,no,37,0
+Morocco,no,34,1
+Morocco,yes,37,0
+Morocco,no,56,2
+Morocco,yes,36,1
+Morocco,yes,38,0
+Morocco,no,40,2
+Morocco,no,53,2
+Morocco,yes,63,2
+Morocco,yes,59,2
+Morocco,yes,43,0
+Morocco,no,34,0
+Morocco,yes,32,0
+Morocco,yes,37,0
+Morocco,no,57,2
+Morocco,no,40,3
+Morocco,no,39,3
+Morocco,yes,47,1
+Morocco,no,67,2
+Morocco,yes,31,0
+Morocco,no,61,2
+Morocco,yes,47,0
+Chile,yes,40,0
+Chile,yes,62,2
+Chile,no,64,2
+Chile,yes,45,2
+Chile,yes,55,2
+Chile,yes,52,2
+Chile,yes,45,0
+Chile,yes,53,2
+Chile,no,52,3
+Chile,yes,46,0
+Chile,yes,59,2
+Chile,yes,35,0
+Chile,no,41,1
+Chile,yes,48,0
+Chile,no,52,3
+Chile,yes,44,2
+Chile,yes,35,0
+Chile,yes,36,1
+Chile,yes,43,1
+Chile,yes,68,0
+Chile,no,64,3
+Chile,yes,57,3
+Chile,yes,35,0
+Chile,yes,44,3
+Chile,yes,38,1
+Chile,no,42,3
+Chile,yes,42,2
+United States,no,54,1
+United States,yes,38,0
+United States,no,42,3
+United States,no,41,3
+United States,no,38,1
+United States,no,40,1
+United States,yes,59,2
+United States,yes,34,1
+United States,yes,50,2
+United States,yes,57,0
+United States,yes,47,3
+United States,yes,47,3
+United States,yes,62,3
+United States,yes,63,2
+United States,yes,37,3
+United States,yes,44,1
+United States,no,55,1
+United States,no,52,1
+United States,yes,41,0
+United States,yes,43,1
+United States,yes,52,3
+United States,no,43,2
+United States,yes,39,1
+United States,yes,30,0
+United States,yes,34,3
+United States,yes,42,1
+United States,no,42,2
+United States,no,45,2
+United States,yes,37,3
+United States,no,59,2
+United States,yes,46,1
+United States,yes,39,3
+United States,no,44,2
+United States,yes,47,0
+United States,yes,33,0
+United States,no,34,1
+United States,yes,48,2
+United States,yes,49,2
+United States,yes,36,0
+China,no,64,2
+China,no,57,2
+China,no,53,1
+China,no,48,1
+China,no,34,1
+China,yes,36,0
+China,no,46,2
+China,yes,47,3
+China,yes,37,0
+China,no,55,2
+China,yes,48,3
+China,no,49,1
+China,yes,56,2
+China,no,43,3
+China,no,39,1
+China,yes,33,3
+China,no,41,3
+China,yes,58,2
+China,no,47,3
+China,yes,66,2
+China,no,50,3
+China,no,36,0
+China,yes,39,2
+China,no,47,3
+China,yes,34,0
+China,no,49,2
+China,no,45,1
+China,yes,41,1
+China,no,54,2
+China,yes,46,0
+China,yes,48,2
+China,no,41,2
+China,yes,39,0
+China,yes,37,1
+China,yes,57,2
+China,no,33,1
+China,yes,37,0
+China,yes,53,3
+China,no,40,2
+China,no,54,2
+China,yes,42,0
+China,no,41,3
+China,yes,62,2
+China,no,39,0
+China,yes,61,2
+China,no,41,0
+China,no,33,0
+China,no,49,3
+China,no,39,2
+China,no,42,2
+China,yes,48,1
+China,no,56,2
+China,no,37,0
+China,no,52,2
+China,yes,60,2
+China,no,37,0
+China,yes,52,2
+China,no,56,2
+China,no,45,1
+China,no,49,2
+China,no,38,1
+China,no,44,3
+China,yes,68,2
+China,no,46,3
+China,yes,48,3
+China,yes,32,0
+China,yes,41,2
+China,no,31,0
+China,no,67,3
+China,no,62,1
+China,yes,38,0
+China,no,53,2
+China,yes,42,0
+China,yes,37,0
+China,yes,68,2
+China,yes,48,2
+China,yes,33,1
+China,yes,31,0
+China,no,47,3
+China,yes,44,0
+China,yes,48,3
+China,no,50,2
+China,yes,43,2
+China,yes,50,0
+China,yes,53,2
+China,yes,46,3
+India,no,43,3
+India,no,55,2
+India,yes,47,0
+India,yes,32,0
+India,yes,36,0
+India,no,53,3
+India,yes,59,2
+India,no,44,2
+India,no,51,2
+India,yes,41,0
+India,yes,54,3
+India,no,56,2
+India,no,52,0
+India,yes,60,2
+India,yes,66,1
+South Africa,no,51,3
+South Africa,no,43,3
+South Africa,yes,38,1
+South Africa,no,52,2
+South Africa,yes,42,3
+South Africa,yes,61,0
+South Africa,yes,61,2
+South Africa,no,40,1
+South Africa,no,37,0
+South Africa,no,46,2
+South Africa,no,42,0
+South Africa,yes,57,2
+South Africa,yes,31,0
+South Africa,no,42,1
+South Africa,yes,57,2
+South Africa,no,40,0
+South Africa,no,49,3
+South Africa,yes,37,1
+South Africa,yes,59,2
+South Africa,yes,34,0
+South Africa,yes,59,3
+South Africa,yes,32,0
+South Africa,no,56,2
+South Africa,no,47,3
+South Africa,yes,43,0
+South Africa,no,46,2
+South Africa,no,46,3
+South Africa,no,56,2
+South Africa,no,51,3
+South Africa,yes,67,2
+South Africa,yes,36,0
+South Africa,no,45,1
+South Africa,no,40,1
+South Africa,no,34,0
+South Africa,no,55,1
+South Africa,no,57,1
+South Africa,yes,48,3
+South Africa,no,41,1
+South Africa,yes,44,0
+South Africa,yes,36,0
+South Africa,yes,38,0
+South Africa,yes,44,1
+South Korea,yes,30,0
+South Korea,yes,34,0
+South Korea,yes,35,0
+South Korea,yes,45,2
+Egypt,no,55,2
+Egypt,no,51,2
+Egypt,no,59,2
+Egypt,no,31,0
+Egypt,no,51,2
+Egypt,yes,50,2
+Egypt,yes,58,2
+Egypt,yes,41,0
+Egypt,no,49,2
+Egypt,yes,47,3
+Egypt,no,36,0
+Egypt,yes,37,0
+Egypt,yes,34,0
+Egypt,yes,36,0
+Egypt,yes,30,0
+Egypt,yes,56,3
+Egypt,no,63,2
+Egypt,no,44,2
+Egypt,yes,39,0
